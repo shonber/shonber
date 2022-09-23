@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 ### My name is shon, AKA MiceX. You can call me Mice 😄
-### I'm a cybersecurity/programming addict and an entrepreneur ⚡
+### I'm in love with cybersecurity/programming and I'm an entrepreneur ⚡
 
 - 🔭 I’m currently working on my website, MiceX ;).
 - 🌱 I’m currently learning Cybersecurity and full-stack.
