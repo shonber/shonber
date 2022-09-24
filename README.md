@@ -1,5 +1,5 @@
 [![MasterHead](https://yt3.ggpht.com/lb_nEAutpfe29hOS-uJ2arCMYDkOyuQyIwlfZRzJJCcwPLvtBmCyVceqLDUvaz7er61KlUU3dA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](https://micex.pro)
-<h1 align="center">Howdy 👋, I'm shonber, AKA MiceX.</h1>
+<h1 align="center">Hi there 👋, I'm shonber, AKA MiceX.</h1>
 <h3 align="center">I have a strong passion for cybersecurity/programming and I'm an entrepreneur ⚡</h3>
 <img align="right" alt="MiceX" width="400" src="https://avatars.githubusercontent.com/u/32219039?v=4" />
 - 🔭 I’m currently working on my website, MiceX ;).
