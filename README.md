@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonber)](https://github.com/anuraghazra/github-readme-stats)
+[![Shon's GitHub stats](https://github-readme-stats.vercel.app/api?username=shonber)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 ### My name is shon, AKA MiceX. You can call me Mice 😄
